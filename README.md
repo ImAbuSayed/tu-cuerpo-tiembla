@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-cuerpo-tiembla/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Tu cuerpo tiembla](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-cuerpo-tiembla/) |
+| **Get License** | [Obtain a Music License for Tu cuerpo tiembla](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-cuerpo-tiembla/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f27c94f9e0bc314a180c764ac1613e6480c16582f99767c1f3c85fc3be4bd6b7` |
 | **Timestamp** | June 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
